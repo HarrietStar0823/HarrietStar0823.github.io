@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html>
-<head>
+<lead>
 <title> My Personal Website </title>
-</head>
-<body bgcolor="white" text="red">
+</lead>
+<body bgcolor="white" textcolor="blue">
 <h1> My first page </h1>
 This is my first web page and I can say anything I want in here - I do that by
 putting text or images in the body section - where I'm typing right now :)
